@@ -45,5 +45,3 @@ The K-Means algorithm successfully grouped customers into five different cluster
 ## 🏆 Conclusion
 This project demonstrates how Unsupervised Learning can discover hidden patterns in customer data. K-Means Clustering effectively segments customers into meaningful groups, which can be useful for business decision-making.
 
-## 👩‍💻 Author
-**Karthiga Suresh**
